@@ -14,5 +14,5 @@ Whenever possible, EML adopted entire trees of information in order to facilitat
 
 ## References
 
-* [EML] Matthew B. Jones, Margaret O’Brien, Bryce Mecum, Carl Boettiger, Mark Schildhauer, Mitchell Maier, Timothy Whiteaker, Stevan Earl, Steven Chong. 2019. Ecological Metadata Language version 2.2.0. KNB Data Repository. doi:10.5063/F11834T2
+* [EML] Matthew B. Jones, Margaret O’Brien, Bryce Mecum, Carl Boettiger, Mark Schildhauer, Mitchell Maier, Timothy Whiteaker, Stevan Earl, Steven Chong. 2019. Ecological Metadata Language version 2.2.0. KNB Data Repository. doi:10.5063/F11834T2 [https://eml.ecoinformatics.org/eml-schema]
 * [EML-docs] [https://eml.ecoinformatics.org/eml-ecological-metadata-language](https://eml.ecoinformatics.org/eml-ecological-metadata-language)
