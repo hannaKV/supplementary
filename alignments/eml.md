@@ -14,5 +14,5 @@ Whenever possible, EML adopted entire trees of information in order to facilitat
 
 ## References
 
-* [OMS] Katharina Schleidt, Ilkka Rinne, Sylvain Grellet (2021) OGC Abstract Specification. Geographic Information - Observations, Measurements and Samples; OGC 20-082r2 and ISO 19156:2020. https://github.com/opengeospatial/om-swg/tree/master/oms-abstract-spec/ogc-as-topic20
+* [EML] Matthew B. Jones, Margaret O’Brien, Bryce Mecum, Carl Boettiger, Mark Schildhauer, Mitchell Maier, Timothy Whiteaker, Stevan Earl, Steven Chong. 2019. Ecological Metadata Language version 2.2.0. KNB Data Repository. doi:10.5063/F11834T2
 * [OMS-docs] http://iso.sparxcloud.com/login.php
