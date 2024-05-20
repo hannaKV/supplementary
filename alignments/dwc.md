@@ -10,7 +10,7 @@ OBOE does not include any additional components corresponding to I-ADOPT Matrix 
 | DwC                 | I-ADOPT                              |
 |---------------------|--------------------------------------|
 | dwc:occurrence      | iop:Entity + iop:hasObjectOfInterest |
-| dwc:event           | iop:Entity + iop:hascontext |
+| dwc:event           | iop:Entity + iop:ContextObject       |
 | dwc:organism        | iop:Entity +  iop:hasObjectOfInterest|
 | dwc:organism        | iop:Entity +  iop:hasObjectOfInterest|
                       | iop:Property  
