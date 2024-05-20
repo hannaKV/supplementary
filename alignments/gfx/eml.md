@@ -1,6 +1,6 @@
 # I-ADOPT to Ecological Metadata Language (EML 2.2.2)
 
-The Ecological Metadata Language (EML) [EML,; CPM-docs] 
+The Ecological Metadata Language (EML) [EML 2019] 
 
 
 ![CPM overview](./gfx/cpm.svg)
