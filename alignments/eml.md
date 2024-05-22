@@ -2,13 +2,14 @@
 
 Ecological Metadata Language (EML) [EML-docs] defines a comprehensive vocabulary and readable XML markup syntax for documenting research data. Whenever possible, EML adopted entire trees of information in order to facilitate conversion of EML documents into other metadata languages. EML was designed with the following standards in mind: Dublin Core Metadata Initiative, the Content Standard for Digital Geospatial Metadata (CSDGM from the Federal Geographic Data Committee (FGDC)), the Biological Profile of the CSDGM (from the National Biological Information Infrastructure), the International Standards Organization’s Geographic Information Standard (ISO 19115), the ISO 8601 Date and Time Standard, the OpenGIS Consortiums’s Geography Markup Language (GML), the Scientific, Technical, and Medical Markup Language (STMML), and the Extensible Scientific Interchange Language (XSIL).
 
+Variables that can be aligned with I-ADOPT can be scattered in different EML modules. The alingnments could be started from eml-unitTypeDefinitions.xsd and 
+
 
 | EML                    | I-ADOPT                                               |
 |------------------------|-------------------------------------------------------|
-| eml:ObservableProperty | iop:Variable                                          |
+| eml:unit               | iop:Variable                                          |
 | eml:FeatureOfInterest  | iop:Entity + iop:hasObjectOfInterest                  |
-| ?oms:constraints on the ObservingProcedure or ?oms:AbstractObservationCharacteristics | iop:Constraint                                          |
-
+| 
 ## References
 
 * [EML] Matthew B. Jones, Margaret O’Brien, Bryce Mecum, Carl Boettiger, Mark Schildhauer, Mitchell Maier, Timothy Whiteaker, Stevan Earl, Steven Chong. 2019. Ecological Metadata Language version 2.2.0. KNB Data Repository. doi:10.5063/F11834T2 [https://eml.ecoinformatics.org/eml-schema]
